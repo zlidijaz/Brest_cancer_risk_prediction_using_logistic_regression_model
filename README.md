@@ -1,6 +1,6 @@
 # Brest cancer risk prediction using logistic regression model
 
-This is a hands-on project from Coursera focused on building and training an logistic regression model  
+This is a hands-on project from Coursera focused on building and training a simple logistic regression model  
 to predict whether a person has a risk of having brest cancer.  
 
 The main learning points:
