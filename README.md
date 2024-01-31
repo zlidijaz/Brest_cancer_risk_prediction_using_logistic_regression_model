@@ -13,6 +13,6 @@ Repo contains two jupiter notebooks (one with and without solutions) and already
 To use Kaggle to download dataset (https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) registration is needed. 
 
 # Certification
-https://coursera.org/share/d8a90e41ce656c69a60169764b183159
+https://coursera.org/share/cee08e1093ec9094a01572f23a2d31a8
 
 
